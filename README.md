@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raamgopal8
 - 🌱 I’m currently learning ...
-- 📫 How to reach me via github.com
+- 📫 reach me via github.com
 
 <!---
 Raamgopal8/Raamgopal8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
