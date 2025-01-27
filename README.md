@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raamgopal8
-- 🌱 I’m currently learning ...
+- 🌱 I’m Tech Enthu ...
 - 📫 reach me via github.com
 
 <!---
